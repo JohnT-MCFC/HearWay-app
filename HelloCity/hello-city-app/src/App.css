@@ -1,0 +1,75 @@
+.app-container {
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: #e6f2ff; /* Light blue background */
+  padding: 20px;
+}
+
+.language-switcher {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.language-switcher button {
+  background: none;
+  border: none;
+  color: #0066cc;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.home-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.home-page h1 {
+  color: #003366;
+  margin-bottom: 40px;
+}
+
+.function-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  max-width: 600px;
+}
+
+.function-buttons button {
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.function-buttons button:hover {
+  transform: scale(1.05);
+}
+
+.bus-btn {
+  background-color: #ff3333; /* Red */
+}
+
+.minibus-btn {
+  background-color: #33cc33; /* Green */
+}
+
+.mtr-btn {
+  background-color: #0066cc; /* Blue */
+}
+
+.deafcare-btn {
+  background-color: #666666; /* Grey */
+}
+
+h1, h2, h3 {
+  color: #003366;
+}
