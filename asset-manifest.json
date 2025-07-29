@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hello-city-app/static/css/main.9aac67e7.css",
+    "main.js": "/hello-city-app/static/js/main.cdee4cee.js",
+    "static/js/453.420180cc.chunk.js": "/hello-city-app/static/js/453.420180cc.chunk.js",
+    "index.html": "/hello-city-app/index.html",
+    "main.9aac67e7.css.map": "/hello-city-app/static/css/main.9aac67e7.css.map",
+    "main.cdee4cee.js.map": "/hello-city-app/static/js/main.cdee4cee.js.map",
+    "453.420180cc.chunk.js.map": "/hello-city-app/static/js/453.420180cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aac67e7.css",
+    "static/js/main.cdee4cee.js"
+  ]
+}
